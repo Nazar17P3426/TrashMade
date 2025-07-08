@@ -1,2 +1,2 @@
-# TrashMade
-All trash and skidded malwares are here! :)
+# Trash Made Malwares
+All of trash and skidded malwares will be here!
